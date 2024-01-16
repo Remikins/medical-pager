@@ -1,1 +1,1 @@
-# medical-pager
+# medical-pager-server
